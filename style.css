@@ -1,0 +1,122 @@
+
+
+.nav-links{
+    flex: 1;
+    text-align: center;
+}
+.nav-links ul li{
+  display: inline-block;
+}
+.ukiimage img{
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.welcome{
+  text-align: center;
+  margin: auto;
+  background-color: #2881ad;
+  border-radius: 15px;
+  padding: 50px;
+  width: 500px;
+  display: block;
+
+}
+.intro{
+  position: relative;
+}
+.course{
+  text-align: left;
+  background-color: #7b4791;
+  margin: auto;
+  border-radius: 20px;
+  padding: 10px 0 10px 5px;
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  left: 10px;
+}
+.coding{
+  padding: 5px;
+  float: right;
+  background-color: #8a8988;
+  border-radius: 20px;
+  position: absolute;
+  right: 10px;
+  padding: 10px;
+  width: 500px;
+  height: 200px;
+  margin: auto;
+
+}
+.footer {
+  background-color:#42acc7;
+  padding: 5px;
+  text-align: center;
+  margin-top: 250px;
+}
+
+
+/* table*/
+table, th, td {
+  border: 1px solid black;
+}
+
+table{
+  height: 700px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+.darkblue{
+  background-color: #3460bf;
+}
+.row1{
+  background-color: #3584e6;
+}
+.blue{
+  background-color: #4295a6;
+}
+.yellow{
+  background-color: #a19e4c;
+}
+.pink{
+  background-color: #cd3be3;
+}
+.purple{
+  background-color: #5f1d82;
+}
+.green{
+  background-color: #2e9e4e;
+  text-align: center;tabl
+}
+.orange{
+  background-color: #b8671c;
+}
+.red{
+  background-color: #870707;
+}
+
+button{
+  position: absolute;
+  right:15px;
+  top: 15px;
+}
+
+/*---- form---*/
+fieldset{
+border: 2px solid #8a8988;
+width: 600px;
+height: 800px;
+background-color: lightblue;
+margin:auto;
+text-align: center;
+text-indent: left;
+letter-spacing: 3px;
+line-height: 200%;
+}
+
+textarea{
+  align-items: center;
+}
